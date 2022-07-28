@@ -1,1 +1,1 @@
-# ITV-DigData-Data-Science-Challenge
+# ITV/DigData-Data-Science-Challenge
